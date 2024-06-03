@@ -5,6 +5,6 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 ## Screenshots
 
-![image1]()
+![image1](https://github.com/sanskar3378/Credit_card-transaction-report-dashboard/blob/main/sc1.png)
 
-![image1]()
+![image1](https://github.com/sanskar3378/Credit_card-transaction-report-dashboard/blob/main/sc2.png)
